@@ -36,6 +36,9 @@ public class CuentaPrincipal2 {
 		}
 		
 		} while (!operacion.equalsIgnoreCase("fin"));
+		
+		System.out.println("Esto es una prueba");
+		System.out.println("Modificaciones desde el remoto");
 
 		sc.close();	
 	}
